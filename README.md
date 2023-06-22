@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Shadab Imran</h1>
+  <h1 align="center">Hi 👋, I'm Shadab Imran</h1>
 <h3 align="center">Building Better Software Experiences</h3>
 
 
@@ -97,8 +97,3 @@
 
 <img src="https://raw.githubusercontent.com/ShadabImran07/ShadabImran07/output/snake.svg" alt="Snake animation" />
 
-###
-
-<p align="center">
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ShadabImran07&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD" />
-</p>
