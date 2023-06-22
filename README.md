@@ -8,13 +8,13 @@
 
 <p align="left"> <a href="https://twitter.com/mdimransalim1" target="blank"><img src="https://img.shields.io/twitter/follow/mdimransalim1?logo=twitter&style=for-the-badge" alt="mdimransalim1" /></a> </p>
 
-- 🌱 I’m currently learning **web3**
+- 🌱 I’m currently learning **Web3**
 
-- 💬 Ask me about sS **MERN STACK,DEVOPS,AWS,DSA**
+- 💬 Ask me about sS **Mern Sack,Devops,Aws,Dsa**
 
 - 📫 How to reach me **shadabimran2017@gmail.com**
 
-- ⚡ Fun fact **i think I write good code**
+- ⚡ Fun fact **I think I write good code**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
